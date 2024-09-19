@@ -3,7 +3,7 @@
 ### Must Watch GitHub Tutorials (Please watch this videos first before reading further)
 - [Git and GitHub Crash Course:](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [Install Java and Visual Studio Code Instructions](https://www.youtube.com/watch?v=BB0gZFpukJU)
-- [Set SSH access to GitHub in your computer] (https://www.youtube.com/watch?v=snCP3c7wXw0)
+- [Set SSH access to GitHub in your computer](https://www.youtube.com/watch?v=snCP3c7wXw0)
 
 
 ### Instructions for Using GitHub Classroom as a Student
