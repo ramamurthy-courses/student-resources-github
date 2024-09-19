@@ -98,3 +98,6 @@ Make sure to stay in sync with your repository and communicate with your instruc
 - **Be Professional:** Maintain a professional tone in all communications.
 - **Be Prompt:** Respond to feedback and messages in a timely manner.
 - **Be Clear:** Provide clear and concise descriptions in your commits, pull requests, and comments.
+
+------
+***Disclosure: Some of the contents in this blogs were generated using Generative AI
